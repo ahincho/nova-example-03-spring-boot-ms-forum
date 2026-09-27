@@ -1,0 +1,9 @@
+server:
+  port: 8082
+spring:
+  application:
+    name: ms-forum
+nova:
+  observability:
+    otlp:
+      endpoint: http://localhost:4318
