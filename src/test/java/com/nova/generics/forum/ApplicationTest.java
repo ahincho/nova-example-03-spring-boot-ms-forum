@@ -1,4 +1,4 @@
-package com.nova.generics;
+package com.nova.generics.forum;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
