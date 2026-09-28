@@ -11,8 +11,8 @@
         <relativePath/>
     </parent>
 
-    <groupId>com.nova.generics</groupId>
-    <artifactId>ms-forum</artifactId>
+    <groupId>pe.edu.nova.java.examples</groupId>
+    <artifactId>nova-example-spring-boot-ms-forum</artifactId>
     <version>1.0.0</version>
     <name>ms-forum</name>
 
