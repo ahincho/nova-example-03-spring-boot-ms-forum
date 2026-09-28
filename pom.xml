@@ -7,20 +7,19 @@
     <parent>
         <groupId>pe.edu.nova.java</groupId>
         <artifactId>nova-spring-boot-parent</artifactId>
-        <version>1.0.0</version>
+        <version>2.0.2</version>
         <relativePath/>
     </parent>
 
-    <groupId>com.nova.generics</groupId>
-    <artifactId>ms-forum</artifactId>
+    <groupId>pe.edu.nova.java.examples</groupId>
+    <artifactId>nova-example-spring-boot-ms-forum</artifactId>
     <version>1.0.0</version>
     <name>ms-forum</name>
 
     <dependencies>
         <dependency>
             <groupId>pe.edu.nova.java.starters</groupId>
-            <artifactId>nova-observability-starter</artifactId>
-            <version>1.0.0</version>
+            <artifactId>nova-observability-spring-boot-starter</artifactId>
         </dependency>
     </dependencies>
 
